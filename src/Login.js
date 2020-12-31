@@ -32,7 +32,7 @@ function Login() {
       <Link to="/">
         <img
           className="login_logo"
-          src="https://cdn.freebiesupply.com/images/large/2x/amazon-logo-transparent.png"
+          src="https://www.marketplace.org/wp-content/uploads/2019/07/ama2.png?resize=740%2C204"
         />
       </Link>
       <div className="login_Container">
